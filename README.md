@@ -5,7 +5,7 @@
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> -->
 
-<h3> 🧑 I'm a MERN & Web3 Developer!!</h3>
+<h3> 🧑 I'm a Web & Mobile Developer!!</h3>
 
 - 🔭 I’m currently working on [UserResearch](https://github.com/sweethappydream/use-Research)
 
