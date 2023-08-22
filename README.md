@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/sweethappydream/](https://github.com/sweethappydream/)
 
-- 💬 Ask me about **React, JavaScript, TypeScript, Node.Js, Solidity, Web3.js**
+- 💬 Ask me about **React, Next.js, Node.js, Express.js, Nest.js, Blockchain, Web3.js**
 
 - ⚡ Fun fact **I love to code**
 
