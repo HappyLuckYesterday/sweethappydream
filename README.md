@@ -115,6 +115,7 @@
     <a href="https://ubuntu.com/" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/vue/vue-plain.svg" alt="vue" width="50" height="50"/></code> 
     </a>
-    [![](https://visitcount.itsvg.in/api?id=netcoretiger&icon=0&color=0)](https://visitcount.itsvg.in)
 </p>
+
+    [![](https://visitcount.itsvg.in/api?id=netcoretiger&icon=0&color=0)](https://visitcount.itsvg.in)
 
