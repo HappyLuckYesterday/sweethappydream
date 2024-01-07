@@ -118,5 +118,5 @@
 </p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sweethappydream&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=sweethappydream)](https://visitcount.itsvg.in)
 
