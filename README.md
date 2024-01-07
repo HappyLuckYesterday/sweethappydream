@@ -117,6 +117,3 @@
     </a>
 </p>
 
----
-[![](https://visitcount.itsvg.in/api?id=sweethappydream)](https://visitcount.itsvg.in)
-
