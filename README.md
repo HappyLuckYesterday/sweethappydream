@@ -5,7 +5,7 @@
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> -->
 
-<h3> 🧑 I'm a Web & Mobile Developer!!</h3>
+<h3> 🧑 I'm a Senior Full Stack Developer!!</h3>
 
 - 🔭 I’m currently working on [UserResearch](https://github.com/sweethappydream/use-Research)
 
@@ -115,5 +115,9 @@
     <a href="https://ubuntu.com/" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/vue/vue-plain.svg" alt="vue" width="50" height="50"/></code> 
     </a>
+
+    <p align="center">
+      <img src="https://komarev.com/ghpvc/?username=darkcoderse" alt="darkcoderse" />
+    </p>
 </p>
 
